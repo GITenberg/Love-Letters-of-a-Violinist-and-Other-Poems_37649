@@ -1,0 +1,32 @@
+_repo: Love-Letters-of-a-Violinist-and-Other-Poems_37649
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fagan, James
+    birthdate: 1864
+    gutenberg_agent_id: '43302'
+    url: http://www.gutenberg.org/2009/agents/43302
+covers:
+- cover_type: archival
+  image_path: 37649-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mackay, Eric
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '31348'
+    url: http://www.gutenberg.org/2009/agents/31348
+description: ''
+gutenberg_issued: '2011-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Love Letters of a Violinist, and Other Poems
+url: http://www.gutenberg.org/ebooks/37649
